@@ -9,7 +9,7 @@ st.sidebar.title("ChatGPT-")
 # Request API Key in the sidebar
 #api_key = st.sidebar.text_input("Enter your OpenAI API Key", type="password")
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 prompt = "the massage was really good and reception guys sunil and imran very polite and they understand what customer requirements are my back was paining so they suggested me to take aroma massage it was relaxing.  massage was amazing super..Please summarise the sentence in 8 words"
 model = "text-davinci-003"
